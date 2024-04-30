@@ -7,3 +7,7 @@
 <p>
   A class named as "snake" has been defined to allow the creation of snake instances. In its current state, the program creates two snake instances that move around on the canvas. Each snake tries to examine a list of all available eggs on the canvas and then picks the nearest egg to itself and then moves towards it. After eating an egg, a snake will grow in length by 1 unit.
 </p>
+
+<p>
+  The color of a snake along with its initial direction and coordinates can be passed as arguments to the constructor of the snake class.
+</p>
